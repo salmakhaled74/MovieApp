@@ -1,5 +1,6 @@
-# Getting Started with Create React App
 ![Screenshot 2023-08-29 160906](https://github.com/salmakhaled74/MovieApp/assets/77203008/351908a3-0c14-4c50-8254-98c035207ea2)
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
